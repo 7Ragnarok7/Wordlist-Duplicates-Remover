@@ -6,6 +6,6 @@
  ## Usage:-
  
  ```sh
- $ ./dup-rem input-file output-file
+ $ ./dup-rem.py input-file output-file
  ```
 

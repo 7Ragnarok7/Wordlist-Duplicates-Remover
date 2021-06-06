@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-import sys
+from sys import argv
 from time import sleep
 
-try: file1, file2 = sys.argv[1], sys.argv[2]
-except IndexError: sys.exit(print("Usage: python dup-rem.py input-file output-file"))
+try: file1, file2 = argv[1], argv[2]
+except IndexError: exit(print("Usage: python dup-rem.py input-file output-file"))
 
 set1 = set()
 count = 0

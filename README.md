@@ -11,6 +11,7 @@
 
 ## Arguments:-
 **asc** : Sorts the output in an ascending order.
+
 **dsc** : Sorts the output in a descending order.
 
 ## Examples:-

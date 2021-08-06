@@ -24,6 +24,6 @@
  
  ## Features:-
  
- - The output will be randomized/shuffled everytime (may overall time to perform a dictionary-attack if the wordlist is sorted)
- - The output can be manually sorted in ascending or descending order
+ - The output will be randomized/shuffled everytime (may decrease the overall time required to perform a dictionary-attack if the original wordlist was sorted)
+ - The output can be explicitly sorted in ascending or descending order
  - The difference between number of lines in the old and new wordlist will be printed
